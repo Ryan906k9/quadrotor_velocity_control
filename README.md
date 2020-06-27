@@ -1,0 +1,2 @@
+# quadrotor_velocity_control
+利用深度学习算法控制四轴飞行器速度
